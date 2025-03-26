@@ -1,0 +1,5 @@
+https://www.example.com
+https://www.google.com
+https://www.invalid-link-12345.com
+https://www.python.org
+https://www.nonexistent-site.org

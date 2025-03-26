@@ -1,5 +1,2 @@
 requests
-tkintertable
 openpyxl
-colorama
-tqdm
